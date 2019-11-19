@@ -2,7 +2,7 @@ function init(){
 //add your javascrip between these two lines of code
 var tf = document.getElementById('entryinput');
 
-var h2c = document.getElementsByTagName('h2')
+var h2c = document.getElementsByTagName('h2');
 var button = document.getElementById('entrybutton');
 
 button.addEventListener('click', function(){
