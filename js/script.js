@@ -6,7 +6,7 @@ button.addEventListener('click', function(){
   alert('Gladys Toledo-Rodriguez: ');
 });
 button.addEventListener('click', function(){
-  h2c.innerHTML = '';
+  h2c.innerHTML = 'Change text';
 });
 
 
