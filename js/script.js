@@ -10,7 +10,7 @@ button.addEventListener('click', function(){
 });
 
 button.addEventListener('click', function(){
-  h2c.innerHTML = 'Change text';
+  h2c.innerHTML = tf.value;
 });
 
 
